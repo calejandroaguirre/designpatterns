@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DesignPatterns/.vs/DesignPatterns/v15
+*.cache
+/DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.BasicSingleton/obj/Debug
+/DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.Singleton.Config/obj/Debug
