@@ -6,3 +6,4 @@
 *.cache
 /DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.BasicSingleton/obj/Debug
 /DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.Singleton.Config/obj/Debug
+**/obj/Debug
