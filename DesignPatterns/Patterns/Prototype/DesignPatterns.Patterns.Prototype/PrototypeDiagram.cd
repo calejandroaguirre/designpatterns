@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="each class return your clone">
+    <Position X="4.75" Y="3.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="...&#xD;&#xA;p = prototype.Clone();&#xD;&#xA;...">
+    <Position X="1.167" Y="2.229" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="DesignPatterns.Patterns.Prototype.Prototype">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Prototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns.Patterns.Prototype.ConcretePrototypeA">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ConcretePrototypeA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns.Patterns.Prototype.ConcretePrototypeB">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ConcretePrototypeB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns.Patterns.Prototype.Client">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <AssociationLine Name="Prototype" Type="DesignPatterns.Patterns.Prototype.Prototype">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="1.1" Y="0.081" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Prototype" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
