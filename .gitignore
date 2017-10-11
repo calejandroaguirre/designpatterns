@@ -7,3 +7,9 @@
 /DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.BasicSingleton/obj/Debug
 /DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.Singleton.Config/obj/Debug
 **/obj/Debug
+/DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.Singleton.Config/bin/Debug
+/DesignPatterns/Patterns/Singleton/DesignPatterns.Patterns.BasicSingleton/bin/Debug
+/DesignPatterns/Patterns/Prototype/DesignPatterns.Patterns.Prototype/bin/Debug
+/DesignPatterns/Patterns/FactoryMethod/DesignPatterns.Patterns.FactoryMethod/bin/Debug
+/DesignPatterns/Patterns/Builder/DesignPatterns.Patterns.Builder/bin/Debug
+/DesignPatterns/Patterns/Adapter/DesignPatterns.Patterns.Adapter/bin/Debug
