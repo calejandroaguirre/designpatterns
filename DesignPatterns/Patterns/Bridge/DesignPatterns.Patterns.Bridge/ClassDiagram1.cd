@@ -52,5 +52,12 @@
       <FileName>StackList.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="DesignPatterns.Patterns.Bridge.BridgeDisk" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BridgeDisk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
