@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Singleton.Basic", "Patterns\Singleton\DesignPatterns.Patterns.BasicSingleton\DesignPatterns.Patterns.Singleton.Basic.csproj", "{C6373FAA-E43F-4A7D-BB7A-924408203F29}"
 EndProject
@@ -30,6 +30,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Proxy", "Patterns\Proxy\DesignPatterns.Patterns.Proxy\DesignPatterns.Patterns.Proxy.csproj", "{F999FFD0-BAA6-4FC5-8227-55D2EB42CC63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Flyweight", "Patterns\Flyweight\DesignPatterns.Patterns.Flyweight\DesignPatterns.Patterns.Flyweight.csproj", "{FB24E8E3-0E8C-4717-A83D-64EBCDDDC353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.ChainOfResponsab", "Patterns\ChainOfResponsability\DesignPatterns.Patterns.ChainOfResponsab\DesignPatterns.Patterns.ChainOfResponsab.csproj", "{FD7F33DB-4147-473A-9C13-57692520AEC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Command", "Patterns\Command\DesignPatterns.Patterns.Command\DesignPatterns.Patterns.Command.csproj", "{8CA9330C-54D6-404F-A58B-3182F583BFF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Interpreter", "Patterns\Interpreter\DesignPatterns.Patterns.Interpreter\DesignPatterns.Patterns.Interpreter.csproj", "{24CC46F2-BB41-44E6-B248-9164ACE34922}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{FB24E8E3-0E8C-4717-A83D-64EBCDDDC353}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB24E8E3-0E8C-4717-A83D-64EBCDDDC353}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB24E8E3-0E8C-4717-A83D-64EBCDDDC353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7F33DB-4147-473A-9C13-57692520AEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7F33DB-4147-473A-9C13-57692520AEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7F33DB-4147-473A-9C13-57692520AEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7F33DB-4147-473A-9C13-57692520AEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA9330C-54D6-404F-A58B-3182F583BFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA9330C-54D6-404F-A58B-3182F583BFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA9330C-54D6-404F-A58B-3182F583BFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA9330C-54D6-404F-A58B-3182F583BFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CC46F2-BB41-44E6-B248-9164ACE34922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CC46F2-BB41-44E6-B248-9164ACE34922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CC46F2-BB41-44E6-B248-9164ACE34922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CC46F2-BB41-44E6-B248-9164ACE34922}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
