@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Interpreter", "Patterns\Interpreter\DesignPatterns.Patterns.Interpreter\DesignPatterns.Patterns.Interpreter.csproj", "{24CC46F2-BB41-44E6-B248-9164ACE34922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DessignPatterns.Patterns.Iterator", "Patterns\Iterator\DessignPatterns.Patterns.Iterator\DessignPatterns.Patterns.Iterator.csproj", "{9A8F4783-B712-4013-9E63-E3F462FCDCF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{24CC46F2-BB41-44E6-B248-9164ACE34922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24CC46F2-BB41-44E6-B248-9164ACE34922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24CC46F2-BB41-44E6-B248-9164ACE34922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8F4783-B712-4013-9E63-E3F462FCDCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8F4783-B712-4013-9E63-E3F462FCDCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8F4783-B712-4013-9E63-E3F462FCDCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8F4783-B712-4013-9E63-E3F462FCDCF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
