@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Mem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Observer", "Patterns\Observer\DesignPatterns.Patterns.Observer\DesignPatterns.Patterns.Observer.csproj", "{C5F833C1-4683-4B15-8AA9-90C3094B5111}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.State", "Patterns\State\DesignPatterns.Patterns.State\DesignPatterns.Patterns.State.csproj", "{B3DC5D3B-C923-4969-8BD8-D850C741CFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.State_2", "Patterns\State\DesignPatterns.Patterns.State_2\DesignPatterns.Patterns.State_2.csproj", "{FA2CC401-2B3A-4308-B119-6D55646E5F5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{C5F833C1-4683-4B15-8AA9-90C3094B5111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5F833C1-4683-4B15-8AA9-90C3094B5111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5F833C1-4683-4B15-8AA9-90C3094B5111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DC5D3B-C923-4969-8BD8-D850C741CFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DC5D3B-C923-4969-8BD8-D850C741CFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DC5D3B-C923-4969-8BD8-D850C741CFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DC5D3B-C923-4969-8BD8-D850C741CFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2CC401-2B3A-4308-B119-6D55646E5F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2CC401-2B3A-4308-B119-6D55646E5F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2CC401-2B3A-4308-B119-6D55646E5F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2CC401-2B3A-4308-B119-6D55646E5F5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
