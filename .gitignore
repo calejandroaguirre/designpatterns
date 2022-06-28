@@ -15,3 +15,5 @@
 /DesignPatterns/Patterns/Adapter/DesignPatterns.Patterns.Adapter/bin/Debug
 /DesignPatterns/Patterns/Bridge/DesignPatterns.Patterns.Bridge/bin/Debug
 /DesignPatterns/Patterns/Bridge/DesignPatterns.Patterns.Bridge_2/bin/Debug
+/DesignPatterns/.vs/DesignPatterns
+**/bin/Debug
