@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Singleton.Basic", "Patterns\Singleton\DesignPatterns.Patterns.BasicSingleton\DesignPatterns.Patterns.Singleton.Basic.csproj", "{C6373FAA-E43F-4A7D-BB7A-924408203F29}"
 EndProject
@@ -54,6 +54,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.TemplateMethod", "Patterns\TemplateMethod\DesignPatterns.Patterns.TemplateMethod\DesignPatterns.Patterns.TemplateMethod.csproj", "{221AD277-CB4D-46D5-A863-8A7C12C7D844}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.Strategy", "Patterns\Strategy\DesignPatterns.Patterns.Strategy\DesignPatterns.Patterns.Strategy.csproj", "{035DFB27-2FC1-45A5-BEAD-669DD982BD06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Patterns.RUN", "Patterns\DesignPatterns.Patterns.RUN\DesignPatterns.Patterns.RUN.csproj", "{DE1A29A1-EBE1-4513-A5F5-6A05B85B0470}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{035DFB27-2FC1-45A5-BEAD-669DD982BD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{035DFB27-2FC1-45A5-BEAD-669DD982BD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{035DFB27-2FC1-45A5-BEAD-669DD982BD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1A29A1-EBE1-4513-A5F5-6A05B85B0470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1A29A1-EBE1-4513-A5F5-6A05B85B0470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1A29A1-EBE1-4513-A5F5-6A05B85B0470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1A29A1-EBE1-4513-A5F5-6A05B85B0470}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

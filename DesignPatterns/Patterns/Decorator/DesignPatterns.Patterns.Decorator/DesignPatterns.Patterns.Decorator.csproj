@@ -49,5 +49,8 @@
     <Compile Include="WindowConcreteComponent.cs" />
     <Compile Include="WindowDecorator.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

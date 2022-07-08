@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="DesignPatterns.Patterns.Flyweight.FlyweightFactory" Collapsed="true">
-    <Position X="5.25" Y="1.75" Width="1.5" />
+  <Class Name="DesignPatterns.Patterns.Flyweight.FlyweightFactory">
+    <Position X="5.25" Y="1.75" Width="2.75" />
     <TypeIdentifier>
       <HashCode>ACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
       <FileName>FlyweightFactory.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DesignPatterns.Patterns.Flyweight.Client" Collapsed="true">
+  <Class Name="DesignPatterns.Patterns.Flyweight.Client">
     <Position X="5.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
       <FileName>Client.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DesignPatterns.Patterns.Flyweight.ConcreteFlyweightA" Collapsed="true">
+  <Class Name="DesignPatterns.Patterns.Flyweight.ConcreteFlyweightA">
     <Position X="2.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
       <FileName>ConcreteFlyweightA.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DesignPatterns.Patterns.Flyweight.ConcreteFlyweightB" Collapsed="true">
+  <Class Name="DesignPatterns.Patterns.Flyweight.ConcreteFlyweightB">
     <Position X="0.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
       <FileName>ConcreteFlyweightB.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DesignPatterns.Patterns.Flyweight.Context" Collapsed="true">
+  <Class Name="DesignPatterns.Patterns.Flyweight.Context">
     <Position X="7" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Context.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="DesignPatterns.Patterns.Flyweight.Flyweight" Collapsed="true">
+  <Class Name="DesignPatterns.Patterns.Flyweight.Flyweight">
     <Position X="1.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
